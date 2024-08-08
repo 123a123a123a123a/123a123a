@@ -1,3 +1,6 @@
 body {
-background-color: rgb(92, 95, 133);
+background-color: rgba(20, 32, 211, 0.692);
+}
+p {
+    color: beige;
 }
