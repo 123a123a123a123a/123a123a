@@ -4,3 +4,10 @@ background-color:rgba(203, 224, 185, 0.87);
 p {
     color: rgb(199, 199, 38);
 }
+.aaa {
+    font-style: italic;
+
+}
+.img {
+    width: 30%;
+}
