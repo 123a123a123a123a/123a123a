@@ -4,18 +4,15 @@ text-align: center;
 }
 p {
     color: rgba(186, 196, 169, 0.5);
+    padding: 5%;
 }
 .aaa {
     font-style: italic;
-
+    width:20%;
 }
 .img {
     width: 30%;
-.aaa {
-    width:20%;
 }
-
 header {
     background-color: blue;
 }
-font-size: 43%;
