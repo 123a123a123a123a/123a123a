@@ -17,4 +17,7 @@ header {
     background-color: blue;
 }
 li {color: rgb(red, green, blue)}
-li .aaa {color:rgb(rgb(77, 57, 57), green, blue)
+li .aaa color:rgb(rgb(77, 57, 57), green, blue)
+    img {
+        height: 39%;
+    }
