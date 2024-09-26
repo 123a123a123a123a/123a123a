@@ -20,3 +20,10 @@ li {color: rgb(red, rgb(116, 143, 116), rgb(172, 172, 203))}
     img {
         height: 39%;
     }
+    nav a {
+        margin-top: 5px;
+        padding: 2px;
+        font-size: 20px;
+        color:rgba(204, 168, 238, 0.192);
+        display: flex;
+        justify-content: center;
