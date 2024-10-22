@@ -27,7 +27,7 @@ li {color: rgb(red, rgb(116, 143, 116), rgb(172, 172, 203))}
         color:rgba(204, 168, 238, 0.192);
         display: flex;
         justify-content: center;
-        
+    }
 .categoria-videos {
     opacity: 0.5;
 }
